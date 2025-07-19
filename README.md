@@ -1,2 +1,2 @@
 # Network-Labs
-This project involved identifying and resolving misconfigurations in a simulated enterprise network using Cisco CLI commands only (no GUI). The scenario was provided as an assessment by our instructor and was designed to test real-world troubleshooting skills.
+Simulated network labs built using Cisco Packet Tracer, GNS3, and VMware for CCNA-level practice and troubleshooting.
