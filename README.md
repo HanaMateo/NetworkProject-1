@@ -3,6 +3,9 @@
 ## Overview:
 This project involved identifying and resolving misconfigurations in a simulated enterprise network using Cisco CLI commands only (no GUI). The scenario was provided as an assessment by our instructor and was designed to test real-world troubleshooting skills.
 
+![Scenario](images/ScenarioProvided.png)
+
+
 ## Tools & Technologies Used:
 - Cisco Packet Tracer (CLI only)
 - Windows Command Prompt (ipconfig, ping)
@@ -32,6 +35,8 @@ Investigative skills are needed on this one!
 - Used the show ip int brief to investigate down lines.
 - Enabled down interfaces with no shutdown.
 - Verified restored connectivity using ping.
+
+![Final Result](images/FinalResult.png)
 
 ## Notes: 
 - Part of my CCNA simulation training        
